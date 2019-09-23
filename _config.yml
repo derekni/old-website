@@ -66,23 +66,23 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#  rss: true
   email: "dan82@cornell.edu"
   facebook: "https://www.facebook.com/derekni8"
   github: "github.com/derekni"
-#  twitter: daattali
+#  twitter: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: "3943160/yourname"
+#  snapchat: snapname
+#  instagram: instaname
+#  youtube: user/username
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+#  steam: steamname
+#  twitch: twitchname
+#  yelp: yelpname
 
 # Select which share links to show in posts
 share-links-active:
