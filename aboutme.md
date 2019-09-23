@@ -1,15 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who I am and what I like to do
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+I am a freshman at Cornell University who is pursuing a Bachelor's degree in Computer Science. I am extremely passionate about coding and love to develop projects in my free time, some of which are featured in my resume, and some of which are currently works in progress. I love spending time with my friends playing ping pong, watching TV, and going out for bubble tea and dinner.
 
 ### my history
 
