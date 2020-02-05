@@ -10,7 +10,7 @@ I am a freshman at Cornell University who is pursuing a Bachelor's degree in Com
 
 ### Music Taste
 
-My favorite artists are LANY, Drake, Khalid, gnash, and Ed Sheeran. My favorite song of all time is A Drop in the Ocean by Ron Pope. Some of my other favorites are Too Good by Drake, Location by Khalid, Good Old Days by Macklemore, and Everything You Are by Ed Sheeran. 
+My favorite artists are LANY, Quinn XCII, Frank Ocean, Khalid, gnash, and Ed Sheeran. I also love The Fray, The Script, and Kodaline. My favorite song of all time is A Drop in the Ocean by Ron Pope. Some of my other favorites are Too Good by Drake, Location by Khalid, Good Old Days by Macklemore, and Everything You Are by Ed Sheeran.
 
 ### Favorite Shows
 
@@ -18,7 +18,7 @@ I love to watch movies and TV. My favorite movie of all time is Kimi no Na Wa, b
 
 ### Favorite Books
 
-My favorite book of all time is Looking For Alaska by John Green, but it's kind of a guilty pleasure. My other favorite books are Me Before You, Gone With the Wind, and Pride and Prejudice.
+My favorite book of all time is Looking For Alaska by John Green, but it's kind of a guilty pleasure. My other favorite books are Me Before You, Gone With the Wind, and The Great Gatsby.
 
 ### Hobbies
 
