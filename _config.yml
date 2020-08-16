@@ -24,7 +24,8 @@ navbar-links:
   Links:
     - Github: "http://github.com/derekni"
     - TaskTime: "https://apps.apple.com/us/app/tasktime-boost-productivity/id1424966230?ls=1"
-    - Johnny Jumper: "https://fb.gg/play/johnnyjumper"
+    - Johnny Jumper: "https://apps.apple.com/us/app/johnny-jumper/id1516182300?ls=1"
+    - Jimmy Jumper: "https://apps.apple.com/us/app/jimmy-jumper-a-jumping-game/id1519102869"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -73,7 +74,7 @@ social-network-links:
   github: "github.com/derekni"
   #  twitter: yourname
   #  reddit: yourname
-  #  linkedin: yourname
+  linkedin: "https://www.linkedin.com/in/derek-ni/"
   #  xing: yourname
   #  stackoverflow: "3943160/yourname"
   #  snapchat: snapname
