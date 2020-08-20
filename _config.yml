@@ -21,6 +21,7 @@ description: A site to introduce myself.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Resume: "resume"
   Links:
     - Github: "http://github.com/derekni"
     - TaskTime: "https://apps.apple.com/us/app/tasktime-boost-productivity/id1424966230?ls=1"
