@@ -21,11 +21,10 @@ description: A site to introduce myself.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "img/Resume.pdf"
   Links:
     - Github: "http://github.com/derekni"
-    - TaskTime: "https://apps.apple.com/us/app/tasktime-boost-productivity/id1424966230?ls=1"
-    - Johnny Jumper: "https://apps.apple.com/us/app/johnny-jumper/id1516182300?ls=1"
+    - TaskTime: "https://apps.apple.com/us/app/tasktime-boost-productivity/id1424966230"
+    - Johnny Jumper: "https://apps.apple.com/us/app/johnny-jumper/id1516182300"
     - Jimmy Jumper: "https://apps.apple.com/us/app/jimmy-jumper-a-jumping-game/id1519102869"
 
 # Image to show in the navigation bar - image must be a square (width = height)
