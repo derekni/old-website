@@ -21,7 +21,7 @@ description: A site to introduce myself.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "resume"
+  Resume: "https://derekni.com/img/Resume.pdf"
   Links:
     - Github: "http://github.com/derekni"
     - Ascii Stream: "https://github.com/derekni/ascii-stream"
