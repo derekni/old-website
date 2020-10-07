@@ -21,8 +21,10 @@ description: A site to introduce myself.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Resume: "resume"
   Links:
     - Github: "http://github.com/derekni"
+    - Ascii Stream: "https://github.com/derekni/ascii-stream"
     - TaskTime: "https://apps.apple.com/us/app/tasktime-boost-productivity/id1424966230"
     - Johnny Jumper: "https://apps.apple.com/us/app/johnny-jumper/id1516182300"
     - Jimmy Jumper: "https://apps.apple.com/us/app/jimmy-jumper-a-jumping-game/id1519102869"
